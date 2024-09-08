@@ -11,8 +11,6 @@ def fibonacci(n):
 
     return b
 
-n1 = 2
-print(fibonacci(n1))
-
-n2 = 3
-print(fibonacci(n2))
+print(fibonacci(2))
+print(fibonacci(3))
+print(fibonacci(4))
